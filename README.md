@@ -1,6 +1,26 @@
 <html>
 <head>
 <title>S-ORAX About</title>
+	    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">   
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Pacifico&display=swap" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+	<style>
+        .bad-script-regular {
+                        font-family: "Bad Script", cursive;
+                        font-weight: 400;
+                        font-style: normal;
+                        }
+    </style>
+	    <style>
+        h2 {
+             font-family: "Bad Script", cursive;
+	     top: -5px;
+	     left: -5px;
+        }
+    </style>
 <style>
 sos{
     border: none;
@@ -171,7 +191,7 @@ li a:hover {
 </head>
 <body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
-    <div class="ogo"><a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a></div><font color="white">S-ORAX</font>
+    <div class="ogo"><a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a></div><h2><font color="white">S-ORAX</font></h2>
     <div class="nav-links">
         <mnu><a href="">Home</a></mnu>
         <sos><a href="#">About</a></sos>
