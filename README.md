@@ -174,12 +174,13 @@ li a:hover {
     <div class="ogo">
 			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a>	
     </div>
+	<font color="white">  S-ORAX</font>
     <div class="nav-links">
         <mnu><a href="">Home</a></mnu>
         <sos><a href="#">About</a></sos>
 		<mnu><a href="">SingIn</a></mnu>
     </div>
-	<font color="white">  S-ORAX</font>
+	
 </div>
 </body>
 </html>
