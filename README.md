@@ -181,7 +181,7 @@ li a:hover {
     </div>
 </div>
 <p>
-	<font color="white">
+	<font color="black">
 <u>HI World, </u>
 This is a S-ORAX 
 Now you can use this
