@@ -191,7 +191,7 @@ li a:hover {
 </head>
 <body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
-    <div class="ogo"><a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a></div><h2><font color="white">S-ORAX</font></h2>
+    <div class="ogo"><a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a></div><u><h2><font color="white">S-ORAX</font></h2></u>
     <div class="nav-links">
         <mnu><a href="">Home</a></mnu>
         <sos><a href="#">About</a></sos>
