@@ -179,7 +179,13 @@ li a:hover {
         <sos><a href="#">About</a></sos>
 		<mnu><a href="">SingIn</a></mnu>
     </div>
-	
+<p>
+	<font color="white">
+<u>HI World, </u>
+This is a S-ORAX 
+Now you can use this
+	</font>
+</p>	
 </div>
 </body>
 </html>
