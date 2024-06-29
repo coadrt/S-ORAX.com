@@ -173,8 +173,7 @@ li a:hover {
 <div class="navbar">
     <div class="ogo">
 			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a>	
-    </div>
-	<font color="white">  S-ORAX</font>
+    </div><font color="white">  S-ORAX</font>
     <div class="nav-links">
         <mnu><a href="">Home</a></mnu>
         <sos><a href="#">About</a></sos>
