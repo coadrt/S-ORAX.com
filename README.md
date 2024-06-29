@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>S-ORAX</title>
+<title>S-ORAX.com</title>
 <style>
 sos{
     border: none;
