@@ -183,8 +183,8 @@ li a:hover {
 <p>
 	<font color="black">
 <u>HI World, </u>
-This is a S-ORAX 
-Now you can use this
+<li>This is a S-ORAX</li> 
+<li>Now you can use this</li>
 	</font>
 </p>
 </body>
