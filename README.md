@@ -169,10 +169,10 @@ li a:hover {
 }
 </style>
 </head>
-<body background="screenshot-2024-06-26-165849.png">
+<body background="Screenshot 2024-06-26 165849.png">
 <div class="navbar">
     <div class="ogo">
-			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a><font color="white">S-ORAX</font>	
+			<a href="#" class="ogo"><img src="R.jpeg" class="ogo" border size="cover"></a><font color="white">  S-ORAX</font>	
     </div>
     <div class="nav-links">
         <mnu><a href="">Home</a></mnu>
